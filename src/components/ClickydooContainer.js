@@ -2,8 +2,6 @@ import React, { Component } from "react";
 import Navbar from "./Navbar";
 import PictureTable from "./PictureTable";
 import Footer from "./Footer";
-import Alert from "react-s-alert";
-import "react-s-alert/dist/s-alert-css-effects/jelly.css";
 
 class ClickydooContainer extends Component {
   state = {
